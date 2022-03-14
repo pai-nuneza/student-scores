@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bfd572b-e48d-48c8-9027-e46988f81872": {
+      "ProjectGuid": "4bfd572b-e48d-48c8-9027-e46988f81872",
+      "DisplayName": "CSharpPlayground",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.exe
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.deps.json
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.runtimeconfig.json
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.dll
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\bin\Debug\net6.0\ref\CSharpPlayground.dll
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\bin\Debug\net6.0\CSharpPlayground.pdb
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.csproj.AssemblyReference.cache
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.AssemblyInfoInputs.cache
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.AssemblyInfo.cs
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.csproj.CoreCompileInputs.cache
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.dll
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\ref\CSharpPlayground.dll
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.pdb
+C:\Users\RamerPailouBNuneza\OneDrive - Unient\Desktop\CSharpPlayground\CSharpPlayground\obj\Debug\net6.0\CSharpPlayground.genruntimeconfig.cache
